@@ -1,5 +1,9 @@
 # MSAL Outlook Demo
 
+MSAL Overview
+
+https://learn.microsoft.com/en-us/entra/identity-platform/msal-overview
+
 Example of using MSAL in Outlook Native.
 
 See https://github.com/AzureAD/microsoft-authentication-library-for-js/issues/1072 .
