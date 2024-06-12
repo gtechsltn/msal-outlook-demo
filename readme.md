@@ -5,6 +5,10 @@ See https://github.com/AzureAD/microsoft-authentication-library-for-js/issues/10
 
 https://eirikb.github.io/msal-outlook-demo/
 
+https://gist.github.com/gtechsltn/ae05c255ba45c2fc470c612bc4078d7d
+
+https://gist.github.com/gtechsltn/1fc91ee03bc20c7047a35be20bfba1ed
+
 ## Test 
 
 I've deployed this add-in to GitHub for testing purposes.  
