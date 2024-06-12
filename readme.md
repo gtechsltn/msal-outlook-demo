@@ -3,6 +3,8 @@
 Example of using MSAL in Outlook Native.  
 See https://github.com/AzureAD/microsoft-authentication-library-for-js/issues/1072 .
 
+https://eirikb.github.io/msal-outlook-demo/
+
 ## Test 
 
 I've deployed this add-in to GitHub for testing purposes.  
